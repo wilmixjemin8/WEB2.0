@@ -25,7 +25,7 @@ JDOLLARPART2 is called as (JD2E)or  WEB2.0 is used for cloudcomputing .
  SO J$ is called as a "SKY Technology".
 
 
- WEB2.0 is ranked as 4th Most Advanced Technology group.
+ WEB2.0 is ranked as NO:1 Most Advanced Technology group.
 
 
 
