@@ -43,7 +43,7 @@ THE LIST OF Frameworks with Merits
 
 9) VSLASH - Behaves line Spring Orm combination with webservicesof WEB framework
 
-10) WHTML framework - Used with J and HTML
+10) WHTML framework - Used with WEb2.0 and HTML
 
 11) VJAVA(J@) - Simillar to Jdk1.6 Features. J@ has OPLUS Framework.
 
